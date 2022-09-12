@@ -1,4 +1,4 @@
-## Olá eu sou Victor Hugo, estudante do curso de Licenciatura em Computação e focado em me tornar um Desenvolvedor Full Stack!
+## Olá eu sou Victor Hugo, estudante do curso de Licenciatura em Computação e estou estudando em me tornar um Desenvolvedor Full Stack!
 <div align="center">
   <a href="https://github.com/TorugoMarega">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TorugoMarega&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
