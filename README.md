@@ -26,4 +26,4 @@
 </a> 
 </div>
 
-  ![Snake animation](https://github.com/TorugoMarega)
+  ![Snake animation](https://github.com/TorugoMarega/TorugoMarega/blob/output/github-contribution-grid-snake.svg)
