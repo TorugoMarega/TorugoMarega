@@ -14,7 +14,12 @@
   <img align="center" alt="Victor-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 
   
-  <img  align="right" alt="Victor-pic" height="150" style="border-radius:20%" src="https://avatars.githubusercontent.com/u/57923276?s=400&u=a168a602da41ae22f4b0549a658b260a268e5621&v=4">
+  <img  align="right" alt="Victor-pic" height="150" src="https://giphy.com/gifs/usopen-us-open-tennis-2022-6beeRThXQbIX5DElmZ?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=">
+  
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
+![](.github/workflows/victorgif.gif)
+
   
 </div>
   
