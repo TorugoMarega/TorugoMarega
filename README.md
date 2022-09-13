@@ -4,14 +4,14 @@
 </div>
 <br>
 <div align="center">
-   <img align="right" width= 350px alt="Victor-pic"  src="https://github.com/TorugoMarega/TorugoMarega/blob/main/.github/workflows/victorgif.gif">
+   <img align="right" width= 450px alt="Victor-pic" src="https://github.com/TorugoMarega/TorugoMarega/blob/main/.github/workflows/victorgif.gif">
   <a href="https://github.com/TorugoMarega">
   <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api?username=TorugoMarega&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <br><br>
   <img align="center" height="245em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorugoMarega&layout=compact&langs_count=7&theme=dracula"/>
     
 </div>
-  <br><br>
+  <br><br><br>
 <div align="center" style="display: inline_block">
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
