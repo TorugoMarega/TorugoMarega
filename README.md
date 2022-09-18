@@ -20,34 +20,64 @@
   
  # Tecnologias
 
-   - FrontEnd
+> FrontEnd
 
 <br>
 <div align="center" style="display: inline_block;">
-  <img align="center" alt="Victor-HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Victor-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Victor-Bootstrap" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  <img align="center" alt="Victor-Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- 
-    
+  <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">    
 </div>
 
 <br>
 
 #
 
-   - BackEnd
+> BackEnd
 
 <br>
 <div align="center" style="display: inline_block;">
-  <img align="center" alt="Victor-Java" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  <img align="center" alt="Victor-Spring" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Victor-Spring" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Victor-Spring"height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">  
+  <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+       <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">  
+
+  <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
+  <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> 
+  <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"> 
+  <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"> 
 </div>
 
 <br>
 
+#
+
+> Utilitários
+
+<br>
+<div align="center" style="display: inline_block;">
+  <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+  <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+</div>
+
+<br>
+
+> Audiovisual
+
+<br>
+<div align="center" style="display: inline_block;">
+
+   <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+   <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+   <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
+   <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+
+</div>
+
+<br>
+ 
 # Redes Sociais
 
 <br>
