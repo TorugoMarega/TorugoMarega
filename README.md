@@ -83,6 +83,8 @@
    <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
    <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
    <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+    <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E">
+    <img height="30em" align="center" src="https://mixedinkey.com/wp-content/uploads/2019/02/REAPER_audio_logo_big.jpg">
 </div>
 <br>
  
