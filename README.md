@@ -21,7 +21,6 @@
  # Tecnologias
 
 > FrontEnd
-
 <br>
 <div align="center" style="display: inline_block;">
   <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -30,52 +29,57 @@
   <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">    
 </div>
-
 <br>
 
 #
 
 > BackEnd
-
 <br>
 <div align="center" style="display: inline_block;">
   <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-       <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">  
-
+  <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">  
   <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
   <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> 
   <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"> 
-  <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"> 
 </div>
-
 <br>
 
 #
 
 > Utilitários
-
 <br>
 <div align="center" style="display: inline_block;">
+   <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+     <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
   <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
   <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </div>
-
 <br>
 
-> Audiovisual
+#
 
+> Sistemas Operacionais
 <br>
 <div align="center" style="display: inline_block;">
+ <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+     <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</div>
+<br>
 
+#
+
+> Audiovisual
+<br>
+<div align="center" style="display: inline_block;">
    <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
    <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
    <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
    <img align="center" alt="Victor-HTML" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-
 </div>
-
 <br>
  
 # Redes Sociais
