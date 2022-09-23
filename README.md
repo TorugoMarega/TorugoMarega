@@ -42,8 +42,19 @@
   <img align="center" alt="Victor-SpringBoot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
   <img align="center" alt="Victor-Maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
   <img align="center" alt="Victor-Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> 
+  <img align="center" alt="Victor-Quarkus" src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=Quarkus&logoColor=ED1F5B">    
+  
+</div>
+<br>
+
+#
+
+> Data
+<br>
+<div align="center" style="display: inline_block;">
   <img align="center" alt="Victor-MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img align="center" alt="Victor-SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"> 
+  <img align="center" alt="Victor-SQLite" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">   
 </div>
 <br>
 
