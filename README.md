@@ -1,4 +1,4 @@
-<div><img alt="torugo_gif" src="https://github.com/TorugoMarega/TorugoMarega/blob/main/.github/workflows/github-profile-gif.gif?raw=true"></div>
+<div><img alt="torugo_gif" src="https://github.com/TorugoMarega/TorugoMarega/blob/main/.github/workflows/github-profile-careca.gif?raw=true"></div>
 <br>
 
 # Sobre
