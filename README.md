@@ -5,7 +5,7 @@
 
 
 <div align="" style="display:inline">
-    <h3>Olá, eu sou Victor Hugo! Sou formado no curso técnico de Redes de Computadores, e atualmente estou cursando Licenciatura em Computação. Minha meta é ser um Desenvolvedor Full Stack!</h3>
+    <h3>Olá, eu sou Victor Hugo! Sou formado no curso técnico de Redes de Computadores(IFTM) e Licenciatura en Computação(IFTM). Minha meta é ser um Desenvolvedor Full Stack!</h3>
 </div>
 
 <br>
