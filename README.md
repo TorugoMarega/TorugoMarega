@@ -5,17 +5,17 @@
 
 
 <div align="" style="display:inline">
-    <h3>Olá, eu sou Victor Hugo! Sou formado no curso técnico de Redes de Computadores(IFTM) e Licenciatura en Computação(IFTM). Minha meta é ser um Desenvolvedor Full Stack!</h3>
+    <h3>Olá, eu sou Victor Hugo! Sou formado no curso técnico de Redes de Computadores(IFTM) e Licenciatura em Computação(IFTM). Minha meta é ser um Desenvolvedor Full Stack!</h3>
 </div>
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
 
   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=TorugoMarega&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="center" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorugoMarega&layout=compact&langs_count=7&theme=dracula"/>
      <br><br>
-</div>
+</div> -->
 
   
  # Tecnologias
@@ -80,10 +80,11 @@
 <div align="center" style="display: inline_block;">
  <img align="center" alt="Victor-widows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img align="center" alt="Victor-ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-     <img align="center" alt="Victor-linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <!-- <img align="center" alt="Victor-linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
 </div>
 <br>
 
+<!--
 #
 
 > Audiovisual
@@ -97,6 +98,7 @@
     <img height="29em" align="center" src="https://static.wixstatic.com/media/795f58_55be59427a224948a2e4f33be12b4848~mv2.jpg/v1/fill/w_460,h_259,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/daw_reaper.jpg">
 </div>
 <br>
+ -->
  
 # LinkedIn
 <br>
